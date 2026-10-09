@@ -1,0 +1,101 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "nombre": "Sitio didáctico 1",
+        "categoria": "A",
+        "origen": "Ejemplo ficticio para enseñanza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6,
+          -32.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "nombre": "Sitio didáctico 2",
+        "categoria": "B",
+        "origen": "Ejemplo ficticio para enseñanza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.55,
+          -32.05
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nombre": "Sitio didáctico 3",
+        "categoria": "A",
+        "origen": "Ejemplo ficticio para enseñanza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.5,
+          -32.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "nombre": "Sitio didáctico 4",
+        "categoria": "C",
+        "origen": "Ejemplo ficticio para enseñanza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.45,
+          -32.1
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "nombre": "Sitio didáctico 5",
+        "categoria": "B",
+        "origen": "Ejemplo ficticio para enseñanza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.4,
+          -32.0
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "nombre": "Sitio didáctico 6",
+        "categoria": "C",
+        "origen": "Ejemplo ficticio para enseñanza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -60.6,
+          -31.95
+        ]
+      }
+    }
+  ]
+}

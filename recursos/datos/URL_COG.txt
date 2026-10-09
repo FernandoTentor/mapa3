@@ -1,0 +1,1 @@
+/vsicurl/https://sentinel-cogs.s3.us-west-2.amazonaws.com/sentinel-s2-l2a-cogs/20/H/QK/2023/2/S2A_20HQK_20230225_0_L2A/B04.tif

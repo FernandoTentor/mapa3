@@ -1,0 +1,113 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "nombre": "Zona didáctica 1",
+        "categoria": "A",
+        "origen": "Polígono ficticio para enseñanza"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.62,
+              -32.12
+            ],
+            [
+              -60.58,
+              -32.12
+            ],
+            [
+              -60.58,
+              -32.08
+            ],
+            [
+              -60.62,
+              -32.08
+            ],
+            [
+              -60.62,
+              -32.12
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "nombre": "Zona didáctica 2",
+        "categoria": "B",
+        "origen": "Polígono ficticio para enseñanza"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.52,
+              -32.04
+            ],
+            [
+              -60.480000000000004,
+              -32.04
+            ],
+            [
+              -60.480000000000004,
+              -32.0
+            ],
+            [
+              -60.52,
+              -32.0
+            ],
+            [
+              -60.52,
+              -32.04
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "nombre": "Zona didáctica 3",
+        "categoria": "C",
+        "origen": "Polígono ficticio para enseñanza"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.43,
+              -32.1
+            ],
+            [
+              -60.39,
+              -32.1
+            ],
+            [
+              -60.39,
+              -32.06
+            ],
+            [
+              -60.43,
+              -32.06
+            ],
+            [
+              -60.43,
+              -32.1
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nombre": "Área de práctica",
+        "origen": "Extensión didáctica del curso de teledetección"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -60.65,
+              -32.15
+            ],
+            [
+              -60.35,
+              -32.15
+            ],
+            [
+              -60.35,
+              -31.9
+            ],
+            [
+              -60.65,
+              -31.9
+            ],
+            [
+              -60.65,
+              -32.15
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}

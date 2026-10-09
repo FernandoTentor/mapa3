@@ -1,0 +1,35 @@
+CAMPUS IDE 2026 — EXPORTACIÓN HTML
+
+1. Descomprimí todo el ZIP.
+2. Abrí Campus_IDE_2026/index.html en tu navegador.
+3. Conservá juntos index.html, style.css, app.js, guides.js y recursos/.
+
+FUNCIONES INCLUIDAS
+Navegación, guías completas, esquemas, buscador de recursos, preguntas de
+repaso, impresión, casillas de avance y descargas de los materiales.
+
+AVANCE PERSONAL
+El avance se guarda en el navegador mediante localStorage, cuando está
+permitido. No se sincroniza entre equipos, navegadores o direcciones.
+El avance del sitio publicado no se traslada automáticamente a esta copia.
+Al abrir mediante file://, la persistencia depende del navegador.
+
+USO LOCAL CON SERVIDOR (RECOMENDADO PARA UN AVANCE PERSISTENTE)
+Si tenés Python instalado, abrí una terminal dentro de Campus_IDE_2026 y ejecutá:
+python -m http.server 8765 --bind 127.0.0.1
+Después abrí http://127.0.0.1:8765/ . Para detenerlo, presioná Ctrl+C.
+Usá siempre el mismo navegador y la misma dirección para conservar el avance.
+
+PUBLICACIÓN EN OTRO ALOJAMIENTO
+Subí el contenido completo de Campus_IDE_2026 a un alojamiento estático.
+No requiere compilación, base de datos ni servidor de aplicaciones.
+La privacidad de Sites no se incluye: el acceso dependerá del nuevo alojamiento.
+
+CONEXIÓN A INTERNET
+El contenido del campus, buscador y archivos incluidos funcionan sin conexión.
+La tipografía de Google Fonts requiere Internet; si no está disponible se usa
+una fuente del equipo. Los enlaces a herramientas, servicios geográficos,
+GitHub y Earth Engine requieren Internet y sus respectivos accesos.
+El campus no ejecuta QGIS, GeoServer ni Earth Engine: ofrece las guías y recursos.
+
+Esta exportación contiene el mismo sitio publicado, sin configuración de Sites.
